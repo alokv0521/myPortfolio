@@ -122,10 +122,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "Nov 2024 - Dec 2024",
     points: [
-      "Designed a real-time multiplayer snow fighting game using HTML, CSS, JavaScript, Node.js, and Express.js, supporting seamless interactions for up to 20 players",
-      "Leveraged Socket.io to achieve sub-100ms latency, ensuring smooth gameplay with instant responses to player actions and minimal delays.",
-      "Conducted user testing with 50 players, achieving a 95% satisfaction rate, and iteratively refined gameplay features based on feedback.",
-      "Implemented features such as player statistics tracking, interactive graphics, and responsive design for an engaging user experience.",
+      "Creating an AI-driven mock interview platform with Next.js that offers personalized interview practice and feedback.",
+"Integrating Claude authentication for secure and efficient user login and session management.",
+      "Still working on this project 😅....... ",
 
     ],
   },
