@@ -122,6 +122,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "Nov 2024 - Dec 2024",
     points: [
+      
       "Creating an AI-driven mock interview platform with Next.js that offers personalized interview practice and feedback.",
 "Integrating Claude authentication for secure and efficient user login and session management.",
       "Still working on this project 😅....... ",
